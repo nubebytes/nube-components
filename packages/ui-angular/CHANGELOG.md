@@ -1,5 +1,31 @@
 # @nubebytes/ui-angular
 
+## 0.10.5
+
+### Patch Changes
+
+- Updated dependencies
+  - @nubebytes/ui-react@0.16.5
+
+## 0.10.4
+
+### Patch Changes
+
+- Peer deps
+
+## 0.10.3
+
+### Patch Changes
+
+- Add angular 17 as peer dep
+
+## 0.10.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @nubebytes/ui-react@0.16.4
+
 ## 0.10.1
 
 ### Patch Changes

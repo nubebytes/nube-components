@@ -1,6 +1,6 @@
 {
   "name": "@nubebytes/ui-react",
-  "version": "0.16.3",
+  "version": "0.16.5",
   "main": "./index.js",
   "module": "./index.mjs",
   "types": "./index.d.ts",

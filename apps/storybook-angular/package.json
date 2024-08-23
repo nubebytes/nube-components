@@ -1,9 +1,10 @@
 {
   "name": "storybook-angular",
   "private": true,
-  "version": "0.0.55",
+  "version": "0.0.59",
   "scripts": {
     "ng": "ng",
+    "dev": "pnpm start",
     "start": "ng serve --open --port 5001 --configuration development",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
